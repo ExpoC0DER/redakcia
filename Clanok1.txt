@@ -2,9 +2,9 @@ Autor: David Kacvinsky
 Nazov: Clanok1
 Datum 6/1/2020
 ----
-riadok 1
-riadok 2
-riadok 3
+novy uvod 1
+novy uvod 2
+novy uvod 3
 ----
 iny obsah 1
 iny obsah 2
