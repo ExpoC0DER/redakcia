@@ -1,3 +1,7 @@
 Autor: David Kacvinsky
 Nazov: Clanok1
 Datum 6/1/2020
+----
+riadok 1
+riadok 2
+riadok 3
