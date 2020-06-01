@@ -10,6 +10,6 @@ iny obsah 1
 iny obsah 2
 iny obsah 3
 ----
-Toto tu je
-velmi zaujimavy zaver cislo 2
-majte sa.
+Toto je velmi
+zaujimavy zaver cislo 1
+Majte sa.
