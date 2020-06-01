@@ -9,7 +9,3 @@ riadok 3
 iny obsah 1
 iny obsah 2
 iny obsah 3
-----
-Mily citatelia 
-na toto sme bohuzial
-nemali cas.
