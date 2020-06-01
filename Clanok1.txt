@@ -9,3 +9,7 @@ riadok 3
 iny obsah 1
 iny obsah 2
 iny obsah 3
+----
+Toto je velmi
+zaujimavy zaver cislo 1
+Majte sa.
